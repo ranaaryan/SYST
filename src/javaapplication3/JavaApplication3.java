@@ -7,7 +7,7 @@ package javaapplication3;
 
 import java.util.Scanner;
 
-/**  oo aagia
+/**  oo aagia ooo
  *
  * @author ranaa
  */
